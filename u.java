@@ -3,5 +3,4 @@ public class u{
         System.out.println("this is second file ");
     }
 }
-
-Don't give faltu Developer 2 , teri asi ki taisi , messege from developer 1 
+developer 1 mukh samle !
